@@ -1,0 +1,44 @@
+{
+    "informable": {
+        "loc": [
+            "Pittsburgh",
+            "New_York",
+            "Boston",
+            "Seattle",
+            "Los Angeles",
+            "San_Francisco",
+            "San_Jose",
+            "Philadelphia",
+            "Washington_DC",
+            "Austin"
+        ],
+        "weather_datetime": [
+            "weather_today",
+            "weather_tomorrow",
+            "weather_tonight",
+            "weather_this_morning",
+            "weather_the_day_after_tomorrow",
+            "weather_this_weekend"
+        ],
+        "temperature": [
+            "temperature_20",
+            "temperature_22",
+            "temperature_24",
+            "temperature_26",
+            "temperature_28",
+            "temperature_30",
+            "temperature_32",
+            "temperature_34",
+            "temperature_36",
+            "temperature_38"
+        ],
+        "weather_type": [
+            "raining",
+            "snowing",
+            "windy",
+            "sunny",
+            "foggy",
+            "cloudy"
+        ]
+    }
+}

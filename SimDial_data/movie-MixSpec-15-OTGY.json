@@ -1,0 +1,81 @@
+{
+    "informable": {
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Comedy",
+            "Crime",
+            "Sport",
+            "Documentary",
+            "Drama",
+            "Family",
+            "Horror",
+            "War",
+            "Music",
+            "Fantasy",
+            "Romance",
+            "Western"
+        ],
+        "years": [
+            "60s",
+            "70s",
+            "80s",
+            "90s",
+            "2000-2010",
+            "2010-present"
+        ],
+        "country": [
+            "USA",
+            "France",
+            "China",
+            "Korea",
+            "Japan",
+            "Germany",
+            "Mexico",
+            "Russia",
+            "Thailand"
+        ],
+        "rating": [
+            "rating_0",
+            "rating_1",
+            "rating_2",
+            "rating_3",
+            "rating_4"
+        ],
+        "company": [
+            "20th_Century_Fox",
+            "Sony",
+            "MGM",
+            "Walt_Disney",
+            "Universal"
+        ],
+        "director": [
+            "director_A",
+            "director_B",
+            "director_C",
+            "director_D",
+            "director_E",
+            "director_F",
+            "director_G",
+            "director_H",
+            "director_I",
+            "director_J",
+            "director_K",
+            "director_L",
+            "director_M",
+            "director_N",
+            "director_O",
+            "director_P",
+            "director_Q",
+            "director_R",
+            "director_S",
+            "director_T",
+            "director_U",
+            "director_V",
+            "director_W",
+            "director_X",
+            "director_Y",
+            "director_Z"
+        ]
+    }
+}

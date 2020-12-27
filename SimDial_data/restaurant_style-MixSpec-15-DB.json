@@ -1,0 +1,902 @@
+[
+    {
+        "type": "restaurant_style",
+        "name": "0",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "1",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "2",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Boston",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "3",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "4",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "5",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "6",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "7",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "8",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "9",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "10",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "11",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "12",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "13",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "14",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "15",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "16",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "17",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "18",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "19",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "20",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "21",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "22",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Mexican"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "23",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "24",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "25",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "26",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "27",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "28",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "29",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "30",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "31",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "32",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "33",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Thai"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "34",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "35",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "36",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "Austin",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "37",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "38",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "39",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "40",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "41",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "42",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "43",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "44",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "45",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "46",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "47",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "48",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "49",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "50",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "51",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "52",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "53",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "54",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "New_York",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "55",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "56",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "57",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "58",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "59",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "60",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Boston",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "61",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "62",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "63",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "64",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "65",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "66",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "67",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "68",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Mexican"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "69",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "70",
+        "open": "open",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "71",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Mexican"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "72",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "73",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "74",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "75",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "76",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "77",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "78",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "79",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "80",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "81",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "82",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "83",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "84",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "85",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "86",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "87",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "88",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "89",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "90",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "91",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Greek"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "92",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Boston",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "93",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Indian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "94",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Hawaiian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "95",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "96",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "97",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "98",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant_style",
+        "name": "99",
+        "open": "closed",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    }
+]

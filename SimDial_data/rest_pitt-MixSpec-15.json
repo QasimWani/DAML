@@ -1,0 +1,3989 @@
+[
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. Recommend uhm me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at res_loc_Craig. hot_pot. Oh no, steamed restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "steamed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean res_loc_Craig?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "steamed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Craig. Do you mean steamed?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "That's wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "steamed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean steamed?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "steamed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What type of restaurant?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "healthy.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean healthy?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Nay.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "steamed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What type of restaurant?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "raw.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 23 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "stewed restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean stewed?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 27 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "Not done yet. How expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The price is cheap. What else can I do?"
+                }
+            },
+            {
+                "turn": 11,
+                "usr": {
+                    "transcript": "Not hmm done yet. Tell me if the restaurant is open.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "It is closed right now. What else can I do?"
+                }
+            },
+            {
+                "turn": 12,
+                "usr": {
+                    "transcript": "I want to search a new one. I'm interested in food at res_loc_Downtown. Oh no, I am at res_loc_Craig.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Craig. Do you mean stewed?"
+                }
+            },
+            {
+                "turn": 13,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 1 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 14,
+                "usr": {
+                    "transcript": "I have more requests. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This place has garage_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 15,
+                "usr": {
+                    "transcript": "No more questions. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello hmm ... robot. I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I'm interested in food at res_loc_Craig.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Craig. What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "healthy.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 44 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One uhm more thing. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has street_parking. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Not done yet. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What do you need?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The price is cheap. What else can I do?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I have all I need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I uhm yeah Hi. I hmm need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "res_loc_Shadyside. Oh no, I don't care.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "healthy.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 54 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Not uhm yeah Not done yet. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant serves fancy food. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Not done hmm ... yet. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has garage_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "New request. At res_loc_Squrill_Hill.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Squrill_Hill"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Squrill_Hill. Do you mean healthy?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Nay. Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Squrill_Hill"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 106 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "In res_loc_U_Pitt.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 119 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "Not uhm yeah Not uhm done yet. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The price is cheap. What else can I do?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "All good. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's hmm up? I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Anything is fine.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Alright, dont_care. What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Yep. At res_loc_Shadyside. raw food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 14 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "res_loc_Airport.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Airport"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 138 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I'm interested in food at res_loc_Shadyside.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 113 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I like hot_pot food. Uhm sorry, Anything is fine.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 141 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "raw food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 98 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 85 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "I don't care.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 128 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "Whatever is good. Oh no, salad.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 138 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "stewed. Oh sorry, hot_pot food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 61 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 11,
+                "usr": {
+                    "transcript": "fried restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 73 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 12,
+                "usr": {
+                    "transcript": "fried food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 34 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 13,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 60 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 14,
+                "usr": {
+                    "transcript": "Anything hmm ... is fine. Oh no, fried.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 140 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 15,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 107 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 16,
+                "usr": {
+                    "transcript": "salad.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 132 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 17,
+                "usr": {
+                    "transcript": "I don't care.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 19 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 18,
+                "usr": {
+                    "transcript": "Anything is fine.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "raw"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 113 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 19,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 94 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 20,
+                "usr": {
+                    "transcript": "No more uhm questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Shadyside"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? I am hmm ... looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at res_loc_Downtown. Oh no, res_loc_Waterfront. healthy food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Waterfront"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 79 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "One more hmm ... thing. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Waterfront"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This place has garage_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "New request. I hmm don't care.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "You dont_care, right?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Nope.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Waterfront"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean res_loc_Waterfront?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Nope.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I don't care. Oh sorry, In res_loc_Downtown.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean res_loc_Downtown?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Downtown. Do you mean healthy?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 30 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "One more thing. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has garage_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "I have all I need. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I need hmm ... a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In res_loc_Downtown.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Downtown. What type of restaurant?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I don't care. hmm At res_loc_Downtown.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 82 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Not hmm done yet. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has street_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "A new search. I like stewed food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said stewed. Do you mean res_loc_Downtown?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Uh-huh. Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean res_loc_Downtown?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 148 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "panned. Uhm sorry, I like fried food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "stewed"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 24 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "I like panned food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "panned"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 102 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "I have more requests. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "panned"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This place has garage_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "All good. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "panned"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "At res_loc_CMU. Oh sorry, I'm interested in food at hmm ... res_loc_Lawrance. Anything is fine.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Lawrance"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 66 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "res_loc_CMU.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 134 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "fried restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 93 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I hmm have all I need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello hmm robot. I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "res_loc_Craig.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Craig. What type of restaurant?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Uh-huh. hot_pot. uhm yeah Uh-huh. hot_pot. Oh sorry, I like healthy food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Craig"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 132 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "At res_loc_U_Pitt.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 70 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "One more uhm yeah One more thing. Is the restaurant open?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "No, The restaurant is closed. What else can I do?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Not done yet. Is it cheap?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Yes, The price is cheap. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I want to search a new one. I like grilled food. Oh sorry, I hmm like boiled food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean res_loc_U_Pitt?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_U_Pitt. Do you mean boiled?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "No.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean boiled?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "Wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "healthy"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean healthy?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "Nay.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What type of restaurant?"
+                }
+            },
+            {
+                "turn": 11,
+                "usr": {
+                    "transcript": "I like salad food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean salad?"
+                }
+            },
+            {
+                "turn": 12,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 114 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 13,
+                "usr": {
+                    "transcript": "No more uhm yeah No more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I'm interested in food at res_loc_Downtown. Oh sorry, I'm interested in food at res_loc_Mellon_Park. salad food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 132 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Not hmm done yet. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has garage_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "A new search. uhm I like grilled food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said grilled. Do you mean res_loc_Mellon_Park?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 102 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "One more thing. What's the hours?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What can I do for you?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "What's the hours?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "It is open right now. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Not done yet. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This place has garage_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "All good. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. Recommend me a place hmm to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "res_loc_CMU.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_CMU. What type of restaurant?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "boiled restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 110 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. How expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The price is cheap. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I want to search a new one. hmm ... I'm interested in food at res_loc_Shadyside. Oh no, In res_loc_U_Pitt.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_U_Pitt. Do you mean boiled?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 114 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "One more thing. How expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant serves cheap food. Anything else?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Not done yet. What's the hours?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "It is closed right now. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "No more questions. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "boiled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's hmm up? I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In res_loc_U_Pitt. hot_pot food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "hot_pot"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 93 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I have more requests. Is uhm the restaurant open?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "hot_pot"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "No, The restaurant is closed. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "All good. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_U_Pitt"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "hot_pot"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? Recommend me a hmm place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In res_loc_CMU.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "fried.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said fried. Do you mean res_loc_CMU?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 7 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Not done yet. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant has no_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Not done yet. How hmm ... expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The restaurant serves cheap food. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "All good. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? uhm yeah What's up? Recommend me hmm ... a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "At res_loc_Mellon_Park.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Mellon_Park. What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I like salad food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 24 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "I have uhm yeah I have all hmm I need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I am looking for hmm a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In res_loc_CMU.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_CMU. What kind of food do you like?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "grilled food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean grilled?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "That's wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What type of restaurant?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I like fried food. At res_loc_CMU.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_CMU"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 121 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "New request. At res_loc_Downtown.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "grilled"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Downtown. Do you mean grilled?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "That's wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean fried?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 65 is a good choice. What else can I do?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "Not hmm done yet. Is it cheap?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Yes, The restaurant serves cheap food. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "I have all I need. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Downtown"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "fried"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "res_loc_Mellon_Park. salad.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 0 is a good choice. Anything else?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "One more thing. What's the hours?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "It is closed right now. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Mellon_Park"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The price is fancy. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I want to search a new one. At res_loc_Waterfront. Uhm sorry, In res_loc_Airport.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Airport"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said res_loc_Airport. Do you mean salad?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Airport"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Restaurant 76 is a good choice. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I have all I need. hmm Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "res_loc_Airport"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "salad"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    }
+]

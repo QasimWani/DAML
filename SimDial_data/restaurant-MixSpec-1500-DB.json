@@ -1,0 +1,902 @@
+[
+    {
+        "type": "restaurant",
+        "name": "0",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Austin",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "1",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Indian"
+    },
+    {
+        "type": "restaurant",
+        "name": "2",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "3",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "4",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "5",
+        "open": "open",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "6",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "7",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "8",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "9",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "10",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "11",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "12",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant",
+        "name": "13",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "14",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "15",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "16",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "17",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "18",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "19",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "20",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "21",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "22",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "23",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "24",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "25",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "26",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "27",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Thai"
+    },
+    {
+        "type": "restaurant",
+        "name": "28",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "29",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "30",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "31",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "32",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "33",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "34",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "35",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "36",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "37",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Thai"
+    },
+    {
+        "type": "restaurant",
+        "name": "38",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "39",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "40",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "41",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "42",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant",
+        "name": "43",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "San_Francisco",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "44",
+        "open": "open",
+        "price": "moderate",
+        "parking": "street_parking",
+        "loc": "Seattle",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "45",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Mexican"
+    },
+    {
+        "type": "restaurant",
+        "name": "46",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "47",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "48",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "49",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "50",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "51",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Boston",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "52",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "53",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "54",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "55",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "street_parking",
+        "loc": "San_Francisco",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "56",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "57",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "58",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "59",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Philadelphia",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "60",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "61",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "New_York",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "62",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "63",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "64",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "65",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "66",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "67",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "68",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "69",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "Seattle",
+        "food_pref": "Thai"
+    },
+    {
+        "type": "restaurant",
+        "name": "70",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "American"
+    },
+    {
+        "type": "restaurant",
+        "name": "71",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "72",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "73",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "74",
+        "open": "open",
+        "price": "cheap",
+        "parking": "street_parking",
+        "loc": "Washington_DC",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "75",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "76",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "77",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    },
+    {
+        "type": "restaurant",
+        "name": "78",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "79",
+        "open": "open",
+        "price": "expensive",
+        "parking": "valet_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "80",
+        "open": "open",
+        "price": "expensive",
+        "parking": "no_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant",
+        "name": "81",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "82",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "83",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "New_York",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "84",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "85",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Russian"
+    },
+    {
+        "type": "restaurant",
+        "name": "86",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "87",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "Seattle",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "88",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Los_Angeles",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "89",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Pittsburgh",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "90",
+        "open": "closed",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Washington_DC",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "91",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "92",
+        "open": "open",
+        "price": "cheap",
+        "parking": "valet_parking",
+        "loc": "San_Jose",
+        "food_pref": "Chinese"
+    },
+    {
+        "type": "restaurant",
+        "name": "93",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Francisco",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "94",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "95",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "Seattle",
+        "food_pref": "French"
+    },
+    {
+        "type": "restaurant",
+        "name": "96",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "97",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Italian"
+    },
+    {
+        "type": "restaurant",
+        "name": "98",
+        "open": "open",
+        "price": "moderate",
+        "parking": "valet_parking",
+        "loc": "Boston",
+        "food_pref": "Korean"
+    },
+    {
+        "type": "restaurant",
+        "name": "99",
+        "open": "open",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "San_Jose",
+        "food_pref": "Japanese"
+    }
+]

@@ -1,0 +1,1352 @@
+[
+    {
+        "type": "rest_pitt",
+        "name": "0",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "1",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "2",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "3",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "4",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Shadyside",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "5",
+        "open": "open",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "6",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "garage_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "grilled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "7",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "8",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "9",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "10",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "11",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "12",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "13",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "salad"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "14",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "15",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "16",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "17",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "18",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "19",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "20",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "21",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "22",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "23",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "24",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "25",
+        "open": "open",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "26",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "27",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "28",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "29",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "30",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "steamed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "31",
+        "open": "going_to_start",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "32",
+        "open": "going_to_start",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "33",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "34",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "35",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "36",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "37",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "38",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "39",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "40",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "41",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "42",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "43",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "44",
+        "open": "going_to_start",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "45",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "46",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "47",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "48",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "salad"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "49",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "grilled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "50",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "51",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "52",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "53",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "54",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "55",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "56",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "57",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "58",
+        "open": "closed",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "59",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "60",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "61",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "62",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "63",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "64",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "65",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "66",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "67",
+        "open": "closed",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "68",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "69",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "70",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Waterfront",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "71",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "healthy"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "72",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_U_Pitt",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "73",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "74",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "75",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "grilled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "76",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "77",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "78",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "79",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Mellon_Park",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "80",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "81",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "82",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "83",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "84",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "85",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "86",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "87",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "88",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "89",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "90",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "91",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "92",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "93",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "94",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "95",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Waterfront",
+        "food_pref": "healthy"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "96",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "97",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "98",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "99",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "100",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "101",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "102",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "103",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "104",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "105",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "106",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "healthy"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "107",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "108",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "109",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Mellon_Park",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "110",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "111",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "112",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "113",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "healthy"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "114",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "115",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "116",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "117",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "118",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "salad"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "119",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "grilled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "120",
+        "open": "closed",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "121",
+        "open": "closed",
+        "price": "cheap",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "122",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "123",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "124",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Shadyside",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "125",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "healthy"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "126",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "127",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "128",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "129",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "130",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "131",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "garage_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "132",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "133",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "134",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "135",
+        "open": "going_to_close",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "136",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_CMU",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "137",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Craig",
+        "food_pref": "stewed"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "138",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "139",
+        "open": "going_to_start",
+        "price": "fancy",
+        "parking": "street_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "140",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "141",
+        "open": "closed",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Lawrance",
+        "food_pref": "raw"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "142",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "street_parking",
+        "loc": "res_loc_Airport",
+        "food_pref": "hot_pot"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "143",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "144",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Downtown",
+        "food_pref": "fried"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "145",
+        "open": "going_to_close",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Forbes_and_Murray",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "146",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Mellon_Park",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "147",
+        "open": "closed",
+        "price": "fancy",
+        "parking": "no_parking",
+        "loc": "res_loc_Mellon_Park",
+        "food_pref": "boiled"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "148",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Waterfront",
+        "food_pref": "panned"
+    },
+    {
+        "type": "rest_pitt",
+        "name": "149",
+        "open": "going_to_start",
+        "price": "average",
+        "parking": "no_parking",
+        "loc": "res_loc_Monroveil",
+        "food_pref": "raw"
+    }
+]

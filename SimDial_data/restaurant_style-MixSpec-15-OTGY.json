@@ -1,0 +1,44 @@
+{
+    "informable": {
+        "loc": [
+            "Pittsburgh",
+            "New_York",
+            "Boston",
+            "Seattle",
+            "Los_Angeles",
+            "San_Francisco",
+            "San_Jose",
+            "Philadelphia",
+            "Washington_DC",
+            "Austin"
+        ],
+        "food_pref": [
+            "Thai",
+            "Chinese",
+            "Korean",
+            "Japanese",
+            "American",
+            "Italian",
+            "Indian",
+            "French",
+            "Greek",
+            "Mexican",
+            "Russian",
+            "Hawaiian"
+        ],
+        "open": [
+            "open",
+            "closed"
+        ],
+        "price": [
+            "cheap",
+            "moderate",
+            "expensive"
+        ],
+        "parking": [
+            "street_parking",
+            "valet_parking",
+            "no_parking"
+        ]
+    }
+}

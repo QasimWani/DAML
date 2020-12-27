@@ -1,0 +1,322 @@
+[
+    {
+        "type": "weather",
+        "name": "0",
+        "temperature": "temperature_32",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tonight"
+    },
+    {
+        "type": "weather",
+        "name": "1",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "2",
+        "temperature": "temperature_24",
+        "weather_type": "cloudy",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "3",
+        "temperature": "temperature_24",
+        "weather_type": "sunny",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "4",
+        "temperature": "temperature_20",
+        "weather_type": "raining",
+        "loc": "Seattle",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "5",
+        "temperature": "temperature_32",
+        "weather_type": "raining",
+        "loc": "New_York",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "6",
+        "temperature": "temperature_32",
+        "weather_type": "raining",
+        "loc": "Los Angeles",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "7",
+        "temperature": "temperature_30",
+        "weather_type": "snowing",
+        "loc": "Austin",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "8",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "9",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_today"
+    },
+    {
+        "type": "weather",
+        "name": "10",
+        "temperature": "temperature_20",
+        "weather_type": "snowing",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_this_weekend"
+    },
+    {
+        "type": "weather",
+        "name": "11",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "New_York",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "12",
+        "temperature": "temperature_20",
+        "weather_type": "raining",
+        "loc": "Seattle",
+        "weather_datetime": "weather_today"
+    },
+    {
+        "type": "weather",
+        "name": "13",
+        "temperature": "temperature_24",
+        "weather_type": "raining",
+        "loc": "Philadelphia",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "14",
+        "temperature": "temperature_38",
+        "weather_type": "snowing",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "15",
+        "temperature": "temperature_24",
+        "weather_type": "sunny",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "16",
+        "temperature": "temperature_32",
+        "weather_type": "windy",
+        "loc": "Seattle",
+        "weather_datetime": "weather_this_morning"
+    },
+    {
+        "type": "weather",
+        "name": "17",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_this_weekend"
+    },
+    {
+        "type": "weather",
+        "name": "18",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Seattle",
+        "weather_datetime": "weather_tonight"
+    },
+    {
+        "type": "weather",
+        "name": "19",
+        "temperature": "temperature_36",
+        "weather_type": "snowing",
+        "loc": "New_York",
+        "weather_datetime": "weather_tonight"
+    },
+    {
+        "type": "weather",
+        "name": "20",
+        "temperature": "temperature_32",
+        "weather_type": "raining",
+        "loc": "New_York",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "21",
+        "temperature": "temperature_36",
+        "weather_type": "sunny",
+        "loc": "Seattle",
+        "weather_datetime": "weather_tonight"
+    },
+    {
+        "type": "weather",
+        "name": "22",
+        "temperature": "temperature_36",
+        "weather_type": "sunny",
+        "loc": "Los Angeles",
+        "weather_datetime": "weather_this_weekend"
+    },
+    {
+        "type": "weather",
+        "name": "23",
+        "temperature": "temperature_32",
+        "weather_type": "cloudy",
+        "loc": "Los Angeles",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "24",
+        "temperature": "temperature_24",
+        "weather_type": "raining",
+        "loc": "New_York",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "25",
+        "temperature": "temperature_36",
+        "weather_type": "sunny",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "26",
+        "temperature": "temperature_20",
+        "weather_type": "windy",
+        "loc": "Austin",
+        "weather_datetime": "weather_this_weekend"
+    },
+    {
+        "type": "weather",
+        "name": "27",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "28",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "29",
+        "temperature": "temperature_30",
+        "weather_type": "raining",
+        "loc": "Austin",
+        "weather_datetime": "weather_today"
+    },
+    {
+        "type": "weather",
+        "name": "30",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_tonight"
+    },
+    {
+        "type": "weather",
+        "name": "31",
+        "temperature": "temperature_30",
+        "weather_type": "raining",
+        "loc": "Los Angeles",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "32",
+        "temperature": "temperature_32",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "33",
+        "temperature": "temperature_36",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "34",
+        "temperature": "temperature_24",
+        "weather_type": "snowing",
+        "loc": "Seattle",
+        "weather_datetime": "weather_the_day_after_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "35",
+        "temperature": "temperature_30",
+        "weather_type": "raining",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "36",
+        "temperature": "temperature_20",
+        "weather_type": "raining",
+        "loc": "New_York",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "37",
+        "temperature": "temperature_26",
+        "weather_type": "raining",
+        "loc": "Washington_DC",
+        "weather_datetime": "weather_tomorrow"
+    },
+    {
+        "type": "weather",
+        "name": "38",
+        "temperature": "temperature_36",
+        "weather_type": "cloudy",
+        "loc": "San_Francisco",
+        "weather_datetime": "weather_this_weekend"
+    },
+    {
+        "type": "weather",
+        "name": "39",
+        "temperature": "temperature_24",
+        "weather_type": "snowing",
+        "loc": "New_York",
+        "weather_datetime": "weather_tomorrow"
+    }
+]

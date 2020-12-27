@@ -1,0 +1,1352 @@
+[
+    {
+        "type": "bus",
+        "name": "0",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Craig",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "1",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "2",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_this_morning"
+    },
+    {
+        "type": "bus",
+        "name": "3",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "4",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "5",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_24"
+    },
+    {
+        "type": "bus",
+        "name": "6",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_20",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_18"
+    },
+    {
+        "type": "bus",
+        "name": "7",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "8",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "9",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_18"
+    },
+    {
+        "type": "bus",
+        "name": "10",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "11",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Airport",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "12",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "13",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Forbes_and_Murray",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "14",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Airport",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "15",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_50",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "16",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "17",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "18",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "19",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "20",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Lawrance",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "21",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "22",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "23",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "24",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "25",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_55",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_16"
+    },
+    {
+        "type": "bus",
+        "name": "26",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_morning"
+    },
+    {
+        "type": "bus",
+        "name": "27",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "28",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "29",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "30",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "31",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "32",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_55",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_6"
+    },
+    {
+        "type": "bus",
+        "name": "33",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Lawrance",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "34",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "35",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_9"
+    },
+    {
+        "type": "bus",
+        "name": "36",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_22"
+    },
+    {
+        "type": "bus",
+        "name": "37",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_morning"
+    },
+    {
+        "type": "bus",
+        "name": "38",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "39",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "40",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "41",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_0",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "42",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "43",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "44",
+        "arrive_in": "arrive_in_0",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "45",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "46",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_6"
+    },
+    {
+        "type": "bus",
+        "name": "47",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "48",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "49",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "50",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Shadyside",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "51",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "52",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "53",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "54",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "55",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_55",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "56",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "57",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "58",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_55",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "59",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "60",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_24"
+    },
+    {
+        "type": "bus",
+        "name": "61",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "62",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_9"
+    },
+    {
+        "type": "bus",
+        "name": "63",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "64",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "65",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Airport",
+        "to_loc": "to_loc_U_Pitt",
+        "bus_datetime": "bus_6"
+    },
+    {
+        "type": "bus",
+        "name": "66",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "67",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "68",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "69",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Craig",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "70",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_6"
+    },
+    {
+        "type": "bus",
+        "name": "71",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "72",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "73",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_CMU",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "74",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "75",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_55",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "76",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_CMU",
+        "bus_datetime": "bus_today"
+    },
+    {
+        "type": "bus",
+        "name": "77",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_CMU",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "78",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_U_Pitt",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "79",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "80",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_tomorrow"
+    },
+    {
+        "type": "bus",
+        "name": "81",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_4"
+    },
+    {
+        "type": "bus",
+        "name": "82",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Craig",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "83",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "84",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Forbes_and_Murray",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_16"
+    },
+    {
+        "type": "bus",
+        "name": "85",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "86",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_today"
+    },
+    {
+        "type": "bus",
+        "name": "87",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "88",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "89",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "90",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "91",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "92",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_16"
+    },
+    {
+        "type": "bus",
+        "name": "93",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "94",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "95",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "96",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_17"
+    },
+    {
+        "type": "bus",
+        "name": "97",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_20",
+        "from_loc": "from_loc_U_Pitt",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "98",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "99",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "100",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_7"
+    },
+    {
+        "type": "bus",
+        "name": "101",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_18"
+    },
+    {
+        "type": "bus",
+        "name": "102",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_13"
+    },
+    {
+        "type": "bus",
+        "name": "103",
+        "arrive_in": "arrive_in_15",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "104",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Lawrance",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_18"
+    },
+    {
+        "type": "bus",
+        "name": "105",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "106",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "107",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_7"
+    },
+    {
+        "type": "bus",
+        "name": "108",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "109",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_15",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "110",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_10",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Shadyside",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "111",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_25",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "112",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "113",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Downtown",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "114",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_15",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "115",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_today"
+    },
+    {
+        "type": "bus",
+        "name": "116",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_13"
+    },
+    {
+        "type": "bus",
+        "name": "117",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "118",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_16"
+    },
+    {
+        "type": "bus",
+        "name": "119",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "120",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_45",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "121",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_9"
+    },
+    {
+        "type": "bus",
+        "name": "122",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_tomorrow"
+    },
+    {
+        "type": "bus",
+        "name": "123",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_CMU",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "124",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_35",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_4"
+    },
+    {
+        "type": "bus",
+        "name": "125",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Shadyside",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_2"
+    },
+    {
+        "type": "bus",
+        "name": "126",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "127",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "128",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "129",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_12"
+    },
+    {
+        "type": "bus",
+        "name": "130",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_15"
+    },
+    {
+        "type": "bus",
+        "name": "131",
+        "arrive_in": "arrive_in_15",
+        "duration": "duration_5",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_this_morning"
+    },
+    {
+        "type": "bus",
+        "name": "132",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "133",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_16"
+    },
+    {
+        "type": "bus",
+        "name": "134",
+        "arrive_in": "arrive_in_10",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "135",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Monroveil",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_3"
+    },
+    {
+        "type": "bus",
+        "name": "136",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "137",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_6"
+    },
+    {
+        "type": "bus",
+        "name": "138",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_30",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "139",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_0",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Craig",
+        "bus_datetime": "bus_today"
+    },
+    {
+        "type": "bus",
+        "name": "140",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_20",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Craig",
+        "bus_datetime": "bus_11"
+    },
+    {
+        "type": "bus",
+        "name": "141",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_45",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Squrill_Hill",
+        "bus_datetime": "bus_this_afternoon"
+    },
+    {
+        "type": "bus",
+        "name": "142",
+        "arrive_in": "arrive_in_20",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_21"
+    },
+    {
+        "type": "bus",
+        "name": "143",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "144",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Forbes_and_Murray",
+        "bus_datetime": "bus_19"
+    },
+    {
+        "type": "bus",
+        "name": "145",
+        "arrive_in": "arrive_in_15",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Mellon_Park",
+        "to_loc": "to_loc_Monroveil",
+        "bus_datetime": "bus_1"
+    },
+    {
+        "type": "bus",
+        "name": "146",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_25",
+        "from_loc": "from_loc_CMU",
+        "to_loc": "to_loc_Airport",
+        "bus_datetime": "bus_8"
+    },
+    {
+        "type": "bus",
+        "name": "147",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Downtown",
+        "to_loc": "to_loc_Shadyside",
+        "bus_datetime": "bus_10"
+    },
+    {
+        "type": "bus",
+        "name": "148",
+        "arrive_in": "arrive_in_5",
+        "duration": "duration_5",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Waterfront",
+        "bus_datetime": "bus_today"
+    },
+    {
+        "type": "bus",
+        "name": "149",
+        "arrive_in": "arrive_in_25",
+        "duration": "duration_40",
+        "from_loc": "from_loc_Waterfront",
+        "to_loc": "to_loc_Lawrance",
+        "bus_datetime": "bus_8"
+    }
+]

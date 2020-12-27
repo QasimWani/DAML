@@ -1,0 +1,2195 @@
+[
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In Austin.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Austin. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "No. uhm yeah No. I am at Washington_DC. I am interested in weather_tonight. Oh no, weather_today.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 11 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "I want to search a new one. Los Angeles.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Los Angeles?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean weather_today?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Nope.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What time's weather?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "weather_this_morning.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_morning"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 8 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "I am interested in weather_today.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 29 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "I have all I hmm ... need. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_today"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? What's uhm the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at Washington_DC. I am interested in weather_today. Oh sorry, Weather weather_this_morning",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_morning"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 30 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Austin. Oh no, San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 20 is here. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. What will be the temperature?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "temperature"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The temperature that time will be temperature_32. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "All good. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Weather at San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Francisco. What date are you interested?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I am interested in weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 0 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "New request. New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said New_York. Do you mean weather_the_day_after_tomorrow?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 38 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "No more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I don't care.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Alright, dont_care. What date are you interested?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Your weather report 18 is here. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. What will be the temperature?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "temperature"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The temperature will be temperature_20. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "No uhm more questions. See you.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. uhm yeah Hello robot. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Seattle. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "weather_this_morning. Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_morning"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Seattle. Do you mean weather_this_morning?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Nay.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_morning"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What date are you interested?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I am uhm interested in weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 35 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "All good. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Weather at Washington_DC.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What date are you interested?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I don't care.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Washington_DC?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 6 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Not done yet. What's hmm ... the temperature?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "temperature"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The temperature that time will be temperature_30. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "No hmm ... more questions. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's hmm up? What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In Austin.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What date are you interested?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I am interested in weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said weather_the_day_after_tomorrow. Do you mean Austin?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "No.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 32 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "No more questions. hmm See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What date are you interested?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "weather_tonight.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean weather_tonight?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 3 is here. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I have more requests. What will be the weather like",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "weather_type"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The weather will be cloudy. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "No hmm ... more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said New_York. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I am interested in weather_today. Oh hmm ... sorry, Weather weather_tonight",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 6 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "All good. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "At Los Angeles.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Los Angeles. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Weather weather_this_weekend",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_weekend"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 4 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. What hmm ... will be the temperature?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "temperature"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_weekend"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The temperature that time will be temperature_36. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I have all I need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_weekend"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I don't care. uhm I am interested in weather_tonight.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 3 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "New request. I am at San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean San_Francisco?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Nope.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Okay, you dont_care, do you?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "No.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "At San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean San_Francisco?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Francisco. Do you mean weather_tonight?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 5 is here. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "No more questions. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tonight"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In Philadelphia. Oh sorry, hmm ... In Austin.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Austin. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I am uhm yeah I am interested hmm in weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean weather_the_day_after_tomorrow?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean weather_the_day_after_tomorrow?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "No.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What date are you interested?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I don't uhm yeah I don't care. Uhm sorry, weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 37 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I uhm yeah I have more requests. What will be the weather like",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "weather_type"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The weather will be raining. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "No more questions. hmm See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What's the weather?.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "At San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Francisco. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I am interested in hmm weather_this_morning. Oh no, Weather weather_tomorrow In San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 12 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "All good. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. What uhm will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Pittsburgh. Oh no, Weather hmm at Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Seattle. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Nay. I am interested in hmm ... weather_this_weekend. At Washington_DC.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_weekend"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 23 is here. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "I have all I need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Washington_DC"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_this_weekend"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. What will the weather be?",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which city are you interested in?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Weather at San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Jose. What time's weather?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Nope. Weather weather_tomorrow San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 22 is here. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Weather at Los Angeles.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 4 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "weather_tonight. Oh sorry, weather_the_day_after_tomorrow.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Your weather report 0 is here. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Not done hmm ... yet. What's the weather type?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "weather_type"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The weather type will be snowing. What else can I do?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "All good. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "weather_datetime",
+                                    "weather_the_day_after_tomorrow"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    }
+]

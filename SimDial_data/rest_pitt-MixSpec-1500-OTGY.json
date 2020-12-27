@@ -1,0 +1,46 @@
+{
+    "informable": {
+        "loc": [
+            "res_loc_Downtown",
+            "res_loc_CMU",
+            "res_loc_Forbes_and_Murray",
+            "res_loc_Craig",
+            "res_loc_Waterfront",
+            "res_loc_Airport",
+            "res_loc_U_Pitt",
+            "res_loc_Mellon_Park",
+            "res_loc_Lawrance",
+            "res_loc_Monroveil",
+            "res_loc_Shadyside",
+            "res_loc_Squrill_Hill"
+        ],
+        "food_pref": [
+            "healthy",
+            "fried",
+            "panned",
+            "steamed",
+            "hot_pot",
+            "grilled",
+            "salad",
+            "boiled",
+            "raw",
+            "stewed"
+        ],
+        "open": [
+            "open",
+            "going_to_start",
+            "going_to_close",
+            "closed"
+        ],
+        "price": [
+            "cheap",
+            "average",
+            "fancy"
+        ],
+        "parking": [
+            "garage_parking",
+            "street_parking",
+            "no_parking"
+        ]
+    }
+}

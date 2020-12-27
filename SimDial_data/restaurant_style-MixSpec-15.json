@@ -1,0 +1,2910 @@
+[
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. hmm I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "At San_Francisco. Uhm sorry, At Pittsburgh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Pittsburgh. What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "You dont_care, right?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Italian. Oh no, I don't care. hmm In Pittsburgh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 80. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I have more requests. What's the hmm ... average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This eating place provides moderate food. What else can I do?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "One more thing. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "For parking, it does have valet_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "New request. I'm interested in food at Pittsburgh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Pittsburgh. You dont_care, right?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "That's wrong. In Austin. Oh no, In San_Francisco. Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 81. What else can I do?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "No more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I need hmm ... a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Seattle. I uhm like Indian food. Oh sorry, Italian food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 93. What else can I do?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I have more requests. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is valet_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. Tell me if the restaurant is open.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This wonderful place is closed. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "A new hmm ... search. Indian food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Indian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Indian. Do you mean Seattle?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Indian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 39. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "One hmm ... more thing. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Indian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "For parking, it does have valet_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "All good. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Indian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I'm interested in food hmm at San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Jose. What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Japanese food. uhm yeah Japanese food. In New_York. Oh sorry, At San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 73. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. How easy hmm ... is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "For parking, it does have no_parking. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "One more thing. Tell me if the restaurant is open.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Currently, this place is closed. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "New hmm request. I'm interested in food at San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean San_Francisco?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Francisco. Do you mean Japanese?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 18. Anything else?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "No more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. uhm yeah Hello robot. Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at Philadelphia.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Philadelphia. What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Anything is fine. I'm interested in food hmm at Philadelphia.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 56. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "I have all I need. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In New_York. Chinese hmm ... food. Oh no, Hawaiian.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Hawaiian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 33. What else can I do?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I have more requests. How expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Hawaiian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This eating place provides expensive food. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "All good. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Hawaiian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. hmm Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In Pittsburgh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What do you like to eat?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Japanese.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Pittsburgh?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Pittsburgh?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Japanese?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 43. What else can I do?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "New request. I am uhm at San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Jose. Do you mean Japanese?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Wrong. Yep.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 16. Anything else?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 85. Anything else?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "I have all I uhm need. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I'm interested in food at New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said New_York. What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I like Italian food. Uhm sorry, Greek.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 87. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Not done yet. What's the hours?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Currently, this place is closed. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "No uhm more questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Seattle. Oh no, San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Jose. What do you like to eat?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Japanese restaurant.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 70. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "I don't care.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 43. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "One more thing. How easy is uhm it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "For parking, it does have valet_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I uhm yeah I have more requests. How expensive hmm ... it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This eating place provides cheap food. Anything else?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "No more questions. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Japanese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Pittsburgh. I like Japanese food. Oh no, Chinese food.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Pittsburgh"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 9. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "New request. At New_York.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean New_York?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Chinese?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Uh-huh.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 95. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I have more requests. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is valet_parking. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I hmm ... have more requests. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me check that for you. The price is cheap. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "No more hmm ... questions. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "New_York"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Chinese"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "What's up? I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Seattle. What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Greek. uhm In Washington_DC. Uhm sorry, In Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 25. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "All good. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I need a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at Austin.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Austin. What do you like to eat?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Italian.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 71. What else can I do?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "This eating place provides cheap food. Anything else?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "One more thing. How uhm easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is no_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "I have all I need. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Austin"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Italian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In San_Francisco.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Francisco. What do you like to eat?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Nay. Whatever is good.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 92. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "In Philadelphia.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Philadelphia?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Yes.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 37. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "Not done yet. Does it have moderate price?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "No, Let me check that for you. The price is expensive. What else can I do?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Not done yet. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is no_parking. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "A new search. I'm interested in food at Boston.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Boston"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Boston?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "Nope.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Philadelphia"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean Philadelphia?"
+                }
+            },
+            {
+                "turn": 9,
+                "usr": {
+                    "transcript": "No.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Francisco"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Do you mean San_Francisco?"
+                }
+            },
+            {
+                "turn": 10,
+                "usr": {
+                    "transcript": "That's wrong.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Boston"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 11,
+                "usr": {
+                    "transcript": "I am uhm yeah I am at Los_Angeles. uhm Oh sorry, Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Seattle. Okay, you dont_care, do you?"
+                }
+            },
+            {
+                "turn": 12,
+                "usr": {
+                    "transcript": "That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 88. Anything else?"
+                }
+            },
+            {
+                "turn": 13,
+                "usr": {
+                    "transcript": "Not done uhm yet. What kind of parking does it have?.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is valet_parking. Anything else?"
+                }
+            },
+            {
+                "turn": 14,
+                "usr": {
+                    "transcript": "No more questions. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hello robot. Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "San_Jose. Oh no, At Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Korean. Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Korean"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 43. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "Not done yet. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Korean"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "For parking, it does have no_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "I have more requests. Is it cheap?",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Korean"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "No, Let me check that for you. The price is moderate. Anything else?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "All good. See you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Korean"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Goodbye."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. I am looking for a restaurant.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "well, what is the place?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "I am at Pittsburgh. Uhm sorry, I am at Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What do you like to eat?"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "I like Russian food. Oh uhm no, Thai.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Thai"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said Thai. Do you mean Seattle?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "No. I like Hawaiian food. Yeah.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Hawaiian"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 92. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "Mexican.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Mexican"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 66. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "One more thing. How uhm expensive it is?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Mexican"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me check that for you. The price is expensive. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "I have more requests. How easy is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Mexican"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is valet_parking. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "All good. Thank you.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Mexican"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    },
+    {
+        "dial": [
+            {
+                "turn": 0,
+                "usr": {
+                    "transcript": "Hi. Recommend me a place to eat.",
+                    "slu": []
+                },
+                "sys": {
+                    "sent": "Which area are you currently locating at?"
+                }
+            },
+            {
+                "turn": 1,
+                "usr": {
+                    "transcript": "In Seattle.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "What cusine type are you interested"
+                }
+            },
+            {
+                "turn": 2,
+                "usr": {
+                    "transcript": "Greek.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 40. Anything else?"
+                }
+            },
+            {
+                "turn": 3,
+                "usr": {
+                    "transcript": "One more thing. How easy hmm is it to park?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "parking"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "The parking status is no_parking. What else can I do?"
+                }
+            },
+            {
+                "turn": 4,
+                "usr": {
+                    "transcript": "One more thing. uhm What's the average price?",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "price"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Seattle"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me check that for you. The price is cheap. What else can I do?"
+                }
+            },
+            {
+                "turn": 5,
+                "usr": {
+                    "transcript": "A hmm ... new search. In San_Jose.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "San_Jose"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "I believe you said San_Jose. Do you mean Greek?"
+                }
+            },
+            {
+                "turn": 6,
+                "usr": {
+                    "transcript": "Wrong. Whatever is good. Oh sorry, Los_Angeles. That's correct.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los_Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Let me look up in my database. A good choice is 34. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 7,
+                "usr": {
+                    "transcript": "Not done yet. Tell me if the restaurant is open.",
+                    "slu": [
+                        {
+                            "act": "request",
+                            "slots": [
+                                [
+                                    "slot",
+                                    "open"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los_Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "Currently, this place is closed. Are you happy about my answer?"
+                }
+            },
+            {
+                "turn": 8,
+                "usr": {
+                    "transcript": "I have all I hmm need. That's all.",
+                    "slu": [
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "loc",
+                                    "Los_Angeles"
+                                ]
+                            ]
+                        },
+                        {
+                            "act": "inform",
+                            "slots": [
+                                [
+                                    "food_pref",
+                                    "Greek"
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "sys": {
+                    "sent": "See you next time."
+                }
+            }
+        ]
+    }
+]
